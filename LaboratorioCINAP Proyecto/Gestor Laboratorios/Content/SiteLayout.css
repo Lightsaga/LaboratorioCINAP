@@ -1,0 +1,15 @@
+﻿.navbar {
+   float:left;
+   background-color:lightgray;
+   width:150px;
+   max-height:800px;
+   overflow-y: auto
+   
+}
+.topMenu{
+    position:fixed;
+     top: 0px;
+  z-index: 500;
+  height:auto;
+  width:auto;
+}
